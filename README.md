@@ -22,4 +22,4 @@
       - gifアニメーションの作成:
       https://syncer.jp/gif-maker
   - 実行の様子
-    - ![](https://github.com/shimaw/report7.17/edit/master/ダウンロード
+    - ![](https://github.com/shimaw/report7.17/edit/master/ダウンロード.gif)
