@@ -8,12 +8,16 @@
   - 使い方，実行の仕方，依存ライブラリとバージョン
     - 使い方
       動画を撮影した上で、その動画をjupyter noteのアップロードして実行した。
+    
     - 実行の仕方
       - jupyter noteで実行した
+      
     - 依存ライブラリ
       - opencv,os,glob
+    
     - バージョン
       - Python3.5
+    
     - 参考にしたサイト
       - 動画を読み込み,フレームごとに画像にして保存にする関数:
       https://note.nkmk.me/python-opencv-video-to-still-image/
@@ -21,5 +25,7 @@
       https://cvtech.cc/str-format-glob/
       - gifアニメーションの作成:
       https://syncer.jp/gif-maker
+  
+  
   - 実行の様子
     - ![](https://github.com/shimaw/report7.17/blob/master/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89.gif)
