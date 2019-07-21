@@ -19,5 +19,9 @@
       https://note.nkmk.me/python-opencv-video-to-still-image/
       - 特定の画像ファイルの読み込み:
       https://cvtech.cc/str-format-glob/
+      - gifアニメーションの作成:
+      https://syncer.jp/gif-maker
+  - 実行の様子
+    - ![](https://github.com/shimaw/report7.17/edit/master/
       
       
