@@ -1,6 +1,7 @@
 import cv2
 import os
 import glob
+import numpy as np
 def save_all_frames(video_path, dir_path, basename, ext='jpg'):
     cap = cv2.VideoCapture(video_path)
 
